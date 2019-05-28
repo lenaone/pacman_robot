@@ -93,9 +93,10 @@ Expected Ouput
 
 1. Make sure you have installed Ruby 2.5.
 2. clone it with `git clone https://github.com/lenaone/pacman_robot`
-3. Install the gems with `bundle install`
-4. Running the app and tests:
-`ruby pacman_test.rb`
+3. Install the minitest gem with `gem install minitest`
+
+Running the app: `ruby pacman.rb`
+Testing the app: `ruby pacman_test.rb`
 
 
 ### Approach
