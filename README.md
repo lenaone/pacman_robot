@@ -107,3 +107,6 @@ Testing the app: `ruby pacman_test.rb`
 
 * In a test, Test all the possible so, given input and different input is working or not also, I need to check pacman move over the grid and think about other wrong excute from the user and test.
 
+
+# Please give me some feedback
+https://forms.gle/haQcN3Vs4LPEzLsa6
